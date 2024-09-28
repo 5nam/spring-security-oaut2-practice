@@ -144,3 +144,6 @@ replay_pid*
 
 # security
 src/main/resources/application-oauth.properties
+src/main/resources/application-h2.properties
+
+target
